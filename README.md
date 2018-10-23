@@ -13,7 +13,7 @@ Aquesta activitat s'ha realitzat de forma individual per l'alumne **David Vila G
 
 ## Codi
 El codi s'entrega en dos formats diferens:
-  * Script scrapper _nba_players.py_ el qual s'executa per realitzar el scraping.
+  * Script _scrapper_nba_players.py_ el qual s'executa per realitzar el scraping.
   * Notebook _scrapper_nba_players.ipynb_ utilitzat per a realitzar l'activitat.
   
 ## Recursos
